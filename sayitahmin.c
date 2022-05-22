@@ -9,7 +9,7 @@ int main()
     srand(time(0));
     int n = rand() % 10;
     printf("Sayi Tahmin V1.1\n");
-    printf("Programming by Astatin\n");
+    printf("Programming by Sh4d0wE4\n");
     printf("Degerli oyuncu, bilgisayar tarafindan, 1'den 10'a kadar olan sayi adetlerinin\narasindan bir sayi tahmin edilmistir. Amacin o sayiyi bulmaktir. Basarilar.\n");
     
     while(true)
