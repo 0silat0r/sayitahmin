@@ -9,7 +9,7 @@ int main()
 {
     system("clear");
     printf("Random Numara Oyununa Hos Geldiniz\n");
-    printf("Programming By Sh4d0wE4\n");
+    printf("Programming By cpu-astatine\n");
     printf("Lutfen seciminizi yapin\n");
     
     int secim;
