@@ -1,5 +1,5 @@
 // C Programming Language Random Number Game 
-// Programmer : Sh4d0wE4
+// Programmer : cpu-astatine 
 
 #include <stdio.h>
 #include <stdlib.h>
